@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Isaac",
+      "apellido": "Rivera",
+      "marerias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "Express"
+        },
+        {
+          "nombre": "Nest"
+        }
+      ]
+    },
+    {
+      "id": "0c5f",
+      "nombre": "Camila",
+      "apellido": "Rineri",
+      "marerias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2
+    },
+    {
+      "nombre": "Cristiano",
+      "apellido": "Ronaldo",
+      "promedio": 10
+    },
+    {
+      "id": "f174",
+      "nombre": "Lionel",
+      "apellido": "Messi",
+      "promedio": 5
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "Express",
+      "duracion": 8,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "Nest",
+      "duracion": 10,
+      "dificultad": "alta"
+    }
+  ]
+}
